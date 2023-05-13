@@ -2,12 +2,12 @@
 Creating a virtual machine in Azure.
 
 
-These were the very simple steps I used to create a virtual machine in Azure successfully.
+These are very simple steps to create a virtual machine in Azure successfully.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/126700220/230170879-997eed84-f188-4799-9b24-baad5d748e47.png" alt="osTicket logo"/>
 </p>
 
-<h1>Observe how easily I created a virtual machine in Azure.</h1>
+<h1>Observe how easily it is to create a virtual machine in Azure.</h1>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -128,16 +128,8 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-9. Went to the Remote Desktop tool. 
-
-<p>
-<img src="https://user-images.githubusercontent.com/126700220/230175476-90dddd30-732f-4994-9e87-e37b74af8b63.png" height="80%" width="80%" alt="Step 1"/>
-</p>
-
-</p>
-<br />
-
-10. Made sure I copied the correct IP address to remote into the VM. 
+9. Go to the Remote Desktop tool. 
+10. Made sure to copy the correct IP address to remote into the VM. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230175612-bc73f62d-7adc-4a17-aea3-5a5dfb4610f0.png" height="80%" width="80%" alt="Step 1"/>
@@ -146,22 +138,9 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-11. Selected more choices.
+11. Selected more choices. Now entered the login credentials you created in the Azure portal. 
 
-<p>
-<img src="https://user-images.githubusercontent.com/126700220/230175840-acd07795-09cb-4903-9fb6-f6f85a8bfd6d.png" height="80%" width="80%" alt="Step 1"/>
-</p>
 
-</p>
-<br />
-
-11.1. Entered the login credentials I created in the Azure portal. 
-
-<p>
-<img src="https://user-images.githubusercontent.com/126700220/230175945-24bdc688-2b6b-42b0-809f-8026f25efa74.png" height="80%" width="80%" alt="Step 1"/>
-</p>
-
-</p>
 <br />
 
 12. Selected "yes". 
